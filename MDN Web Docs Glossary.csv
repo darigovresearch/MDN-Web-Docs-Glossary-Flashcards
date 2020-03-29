@@ -1,3 +1,20 @@
+Introduction (MDN Web Docs Glossary)|"
+<p>This deck has taken definitions outlined in <a href=""https://developer.mozilla.org/en-US/docs/Glossary"">Mozilla's MDN Web Docs Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(MDN Web Docs Glossary)"" appended to the end so that if you have any other words in your collection, the MDN Glossary definition will still be added when importing it.</li>
+<li>The subject of the front of the card has been wrapped with the link to the relevant page so it can be easily viewed from the app.</li>
+<li>The original relative URLs have been made into full URLs so they are clickable within Anki.</li>
+<li>Unordered lists have been aligned to the left to make them easier to read in Anki which automatically centers content.</li>
+<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards"">https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This work was based on the <em><strong>MDN Web Docs Glossary</strong></em> by <a href=""https://developer.mozilla.org/en-US/docs/Glossary"">Mozilla and individual contributors</a>. Content is available under <a href=""https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses"">these licenses</a>.</p>
+<p>To see this work in full go to <a href=""https://developer.mozilla.org/en-US/docs/Glossary"">https://developer.mozilla.org/en-US/docs/Glossary</a></p>
+"
 "<a href=""https://developer.mozilla.org/en-US/docs/Glossary/Abstraction"">Abstraction</a> (MDN Web Docs Glossary)"|"<article id=""wikiArticle""><p>Abstraction in <a class=""glossaryLink"" href=""https://developer.mozilla.org/en-US/docs/Glossary/computer_programming"" title=""computer programming: Computer programming is a process of composing and organizing a collection of instructions. These tell a computer/software program what to do in a language which the computer understands. These instructions come in the form of many different languages such as C++, Java, JavaScript, HTML, Python, Ruby, and Rust."">computer programming</a> is a way to reduce complexity and allow efficient design and implementation in complex software systems. It hides the technical complexity of systems behind simpler <a class=""glossaryLink"" href=""https://developer.mozilla.org/en-US/docs/Glossary/API"" title=""APIs: An API (Application Programming Interface) is a set of features and rules that exist inside a software program (the application) enabling interaction with it through software - as opposed to a human user interface. The API can be seen as a simple contract (the interface) between the application offering it and other items, such as third party software or hardware."">APIs</a>.</p>
 
 <h2 id=""Advantages_of_Data_Abstraction"">Advantages of Data Abstraction</h2>
