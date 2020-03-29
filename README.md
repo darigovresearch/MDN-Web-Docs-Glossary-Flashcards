@@ -8,8 +8,8 @@ This repository has taken definitions outlined in [Mozilla's MDN Web Docs Glossa
 Please note the modifications which have been made & where you can find updates.
 1. The front of every card has "(MDN Web Docs Glossary)" appended to the end so that if you have any other words in your collection, the MDN Glossary definition will still be added when importing it.
 2. The subject of the front of the card has been wrapped with the link to the relevant page so it can be easily viewed from the app.
-3. The original relative urls have been made into full urls so they are clickable within Anki.
-4. Unorderd lists have been aligned to the left to make them easier to read in Anki which automatically centers content.
+3. The original relative URLs have been made into full URLs so they are clickable within Anki.
+4. Unordered lists have been aligned to the left to make them easier to read in Anki which automatically centers content.
 5. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards">https://github.com/darigovresearch/MDN-Web-Docs-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.
 
 Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.
