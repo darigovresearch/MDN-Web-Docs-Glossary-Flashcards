@@ -33,6 +33,6 @@ We're happy for any contribution in any form, but if you're making more than one
 ## License
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
-This work was based on the ***MDN Web Docs Glossary*** by [Mozilla and individual contributors.](https://developer.mozilla.org/en-US/docs/Glossary), Content is available under [these licenses](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses).
+This work was based on the ***MDN Web Docs Glossary*** by [Mozilla and individual contributors](https://developer.mozilla.org/en-US/docs/Glossary). Content is available under [these licenses](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses).
 
 To see this work in full go to https://developer.mozilla.org/en-US/docs/Glossary
