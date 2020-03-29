@@ -68,7 +68,6 @@ The general process for porting existing translations to make a new language pai
 - Do make sure punctuation is consistent across translations
     - This includes but is not limited to spaces, brackets, quotation marks, question marks, asterisks, exclamation points, ellipses etc.
 - Do follow the naming conventions for file and folder names above
-- Do keep the English version of the word in brackets on the left hand side of the `|` for consistency with the other pre-existing translations
 - Do ensure that you are using the correct delimiter on each row
 - Do not delete or combine multiple translations into one line
 - Refrain from adding additional context to a translation as it may not be relevant
