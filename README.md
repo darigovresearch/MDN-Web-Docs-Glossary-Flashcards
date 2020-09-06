@@ -42,3 +42,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This work was based on the ***MDN Web Docs Glossary*** by [Mozilla and individual contributors](https://developer.mozilla.org/en-US/docs/Glossary). Content is available under [these licenses](https://developer.mozilla.org/docs/MDN/About#Copyrights_and_licenses).
 
 To see this work in full go to https://developer.mozilla.org/en-US/docs/Glossary
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>
