@@ -17,7 +17,7 @@ Feel free to share the deck and give the repository a star so more people are li
 ## Usage
 If you want to just learn the words, download <a href="https://apps.ankiweb.net/">Anki</a> on your device of choice and open the .apkg file to add it into your collection. If you wish to build the deck from scratch you will need to import the .csv file via the desktop with HTML enabled and the separator to be "|".
 
-Watch our video on an Introduction to Anki for a complete overeview -> [https://www.youtube.com/watch?v=Dji_h7PILrw](https://www.youtube.com/watch?v=Dji_h7PILrw)
+Watch our video on an Introduction to Anki for a complete overview -> [https://www.youtube.com/watch?v=Dji_h7PILrw](https://www.youtube.com/watch?v=Dji_h7PILrw)
 
 ## Potential improvements yet to be made
 1. To find a way to systematically pull the definitions from the glossary so that any corrections or additions are automatically updated.
